@@ -1,0 +1,3252 @@
+{
+  "id": 613964026,
+  "resource_state": 3,
+  "external_id": "garmin_push_1219791201",
+  "upload_id": 669422825,
+  "athlete": {
+    "id": 28684,
+    "resource_state": 1
+  },
+  "name": "Lisboa Eco Marathon!",
+  "distance": 42124.8,
+  "moving_time": 21822,
+  "elapsed_time": 21833,
+  "total_elevation_gain": 929,
+  "type": "Run",
+  "start_date": "2016-06-18T17:02:45Z",
+  "start_date_local": "2016-06-18T18:02:45Z",
+  "timezone": "(GMT+00:00) Europe/Lisbon",
+  "start_latlng": [
+    38.74,
+    -9.18
+  ],
+  "end_latlng": [
+    38.73,
+    -9.15
+  ],
+  "location_city": null,
+  "location_state": null,
+  "location_country": "United States",
+  "start_latitude": 38.74,
+  "start_longitude": -9.18,
+  "achievement_count": 2,
+  "kudos_count": 4,
+  "comment_count": 0,
+  "athlete_count": 14,
+  "photo_count": 0,
+  "map": {
+    "id": "a613964026",
+    "polyline": "c~lkF`f_w@[^MTAJJ\\ATEL@L`@|@ARUH[Bm@\\E?OBa@ZqA?y@Uq@@WDYJSPs@VSTM^u@|AKf@BnAjAlIVz@f@r@NLhAf@ZBz@GjBc@vAMhAHJAXFZAx@B|@LNFHPBL?n@WbBs@lC?DUb@Ul@EV]lAgAzBE\\KZ}@`COTI`@M\\QT[TOFSB[?WGWO_BsAUMs@Ke@@_@JUNYVGHYfAa@`Aj@eBPa@NUl@c@\\K`@AVJ\\PdAbAl@\\d@BXC\\KVURYL[lCkHlAsCpAyDl@mCJ[V_@VIn@C|@Cr@@z@CR@^E\\?b@Gp@@ZJj@Hh@b@NNh@|@R~@Df@BxBJrAAtEE`A@ZAvC@pBFfC@`DHxCElA@VBBRFt@JlEXlALdABrBJjBLl@J~@Vt@Zr@b@^LJCPKLM|@mAp@k@r@YTK^MlB[XMJKHODa@A[MYKMOE[BSFy@`@y@XwAv@KBS@SC]WS]}@mCIq@D[H_@HSZa@lAoATWVs@Bc@Gk@CKk@eAOa@Eo@Ho@HYPUz@}BLy@?c@Ie@y@cAWk@EMCc@NgAVq@v@_Bp@gAf@iAHk@@c@Kc@[i@QGYEoAIw@Fe@XSTg@`@IPMHOVURe@z@[HW@UKe@g@MWa@kA?Gg@c@[SWIg@?YDSHa@Zs@~@[ZYBYGSOGO@GImAQoA]cAq@yCGa@Ei@GQE_@DqCVsDFuA?a@Ik@Km@Ok@]k@a@k@o@q@mAy@GCWA]DODe@b@KPIN]fAWj@YrAMjAOl@OhA]jBW~@WdBUv@EZcAxEWxAMhAQh@WhAWjCSdACd@On@KRKb@]bAi@rAK^Yv@GZWr@ER?HE?EH@B?IBAIZgCtGOVg@h@[Nm@FUCg@Ui@[g@e@UMSI_@E[BWFg@ZOPwBlFGf@Md@Il@A`AD`AJfA^jBJ`@^v@b@h@l@f@^p@Xt@FXFh@D|ACZYpB?vADb@Nl@x@zC@v@Ab@Qr@y@~AKXMj@Cb@@h@L~@J^Tj@^f@vAtAR^LVXvAx@lCz@rBd@p@NZj@r@b@ZNZMHQ?_AEs@?SFs@^_@D]A}@Sk@I{@WmAm@SY_@cA?SQa@EQIoAKUq@q@a@kA]u@G]CYCaBUuAC_A?o@Ew@@KGi@CgCGkAMWe@_@AGIo@Ai@Kc@UyAWy@GYSu@O]a@{BMe@O}@IQEYSo@S}@KW?KIWAOa@sAAa@Gk@GO[cBECl@eD\\mCb@qAFWRm@TkAf@yAdA}Bh@}@b@{@NURU|@e@j@g@x@a@v@q@h@Wb@[n@YJCVO`@_@h@Ov@a@xBoAVYt@[DGNGb@?JATHV@p@_@DO?EGOY]AES]Q}@Ae@ZsAFa@BUA_@DMBYZoAXgBJ]JOJa@LWNUn@wAf@w@^}@nAcCPo@b@e@d@q@dAwBvAaCp@yA^s@Z[|@yALIRZLh@RVd@lAHd@Fz@Hb@j@l@~@rA|@nBh@|AF\\?POnABHb@n@XDT?^S~@q@LWf@a@PEVATI\\@NBJPBPLPPLLZ@L@VGTSTUJW^Q\\BDJ?DPDb@T\\NFr@Jd@Lz@cAfA_BTUX_@\\_@p@aA^_@LGb@e@d@}@Tu@D@JLXb@LCb@u@JCRA^FRNBv@QxAC`@@^x@tAH@JIVk@NMn@A|@g@ZBXVz@lAL\\DVTl@R`DB~BMnA@x@Cj@Dz@Cz@O`B?ZUrB?PCN?lABv@EdAEXa@tA?@GHa@J_@DWJM`@EZK`@Up@Q~@CnBHtAFN?N@JAPBX@|AFn@ETIN_@Xg@j@]REHSJABC@KNc@VIL?F?JJJP?ZCRBv@NTRFLF`@LhBHvBIl@Qh@Cj@LjBMfBAt@BrBJz@D`A@h@Ix@WVEJOTE@MCi@UqAkAG?c@m@M[MMEWUe@AC[g@Ok@Q[][Uc@MOOCKBGLIDOGE@u@s@MGSUIEU?Q`@YtAUj@[zAa@rAUnAQf@A\\Bb@Qv@W`@EL@RbAf@VZPx@p@bBFVMT@Jf@zBPl@BPJ`@FDDECc@BOBMHKJ_@JKf@[n@eAjAu@VUFKJk@FO^]f@{@TSTKL?`@c@FCfAAhAs@XC\\Hf@b@Z@`AYlAo@|@]NKBGBs@Eg@QW@CYIMQES[oCMa@U}@MmAG}@?_CDa@EmB@[OuCFoA`@wCHa@\\aAXcADg@Eg@?a@D_@~AmHVy@f@kA`CyD\\q@`@o@NQJEn@KD@x@Qz@GVDNHv@z@n@`A`@XlAh@r@TL@VFVLZZ\\f@Rd@FXXvBJ`@NTTPRN\\LXGPDLG`A[l@]~@_@n@MD@NHLLGp@SbAuAnFQ~@EzACFEx@MxAKnCIz@?`@I^KVm@bAKTOjAG~@DpCP|AB`@?`@CJ@fACj@Gl@@t@A\\IXILa@Xo@l@CHGf@MVg@Zk@l@g@|@Qf@GBOAmASIYE[BoA@[HYXm@BqA]cBGk@g@gCEo@Uk@Wy@MUEUSi@aEaIe@gAc@q@Uc@i@aASUKEa@?UJKh@W~A@b@FTj@\\P^Ff@I\\KX[\\a@Xc@LIHITMhAGfAWjBGv@?VETAv@@f@B@@x@Px@JVPL@HDBR@JLH?DDTFJHp@TVVTLR\\DRCbCDXDHVlC\\jAJRLNRTx@f@zBhA|@l@h@NrAl@bA\\nBx@AHLr@Bb@FTb@DXHVN`@f@Tl@Nt@@TCd@GVYTSBU?SLM\\KJEPSAm@W_@SIAGX?\\FR^n@nA~AfAbBLJr@`A\\Zr@hAhCdDpBrCn@bAPPT^d@d@PJn@Ht@@FDBZMjABDENO\\o@|@o@fAGVFJUTFENHf@@LBHRPRNVx@z@~@j@hB~AvBbBlAdAJNJZv@rCVp@Tb@TZp@n@TPl@V\\TT@`@Cx@OLDp@^l@j@j@^d@b@JVLh@Dp@@j@GTg@jAS\\GXPZr@r@i@lBA`@v@d@v@Vv@Px@F`@LHFC@GAItBBHT@CDe@IcAIsAYQ?cAOi@?]Em@DgAGS@c@CQBMP@LMz@y@v@o@b@i@h@UNyAxASD?BODk@`@MRYZQf@Mp@A`@Gn@@TF\\JXd@h@p@JXLPNJPPj@Ht@A@DF^~@PT`@Nh@r@b@RlAZNJ~Aj@PDZCTIn@k@VGFDNPR\\FPLJHFN@b@b@f@\\JDZDLAf@Oz@O@Cj@KT?PCXKRCHFBJJ@JVFFt@Pb@Ex@?bAh@L?TGVBJC\\K\\Wn@U\\CZFA@@AP@JFDFH@JNLNHTDP?RNh@Hl@Px@Bp@Jd@PTHFV\\Zj@z@~@l@rAb@j@j@\\vA`@\\@TEVCXGv@c@PG^[d@q@MEG@QCMGUa@Ks@@WFWVi@Rm@h@a@|@y@NUFQAa@EUU[[wBEMGEIOK[Ec@EEKa@?m@CWGKQ}@GIUIy@q@gAa@A@OIe@s@]So@QG@w@Gg@Ig@SQ@QCa@NWDMN[J[XkAh@Y?a@EU@GEA@MCo@EOCKIc@QSE[HYBQFm@h@w@Vi@@y@JEAQk@CAc@AEFa@Ng@^c@P{@Tk@FQAODCF]Li@Fe@UQCUIUO[]ISQGUQE]BDc@Ec@Sg@Dm@_@S?IGIMYSGIGW_@[U_@OGSUQMu@_@_@_@MAGEYs@@IJW@SRIjAcBhAmAfAw@ZO^WFMBw@DUb@SVAl@RDBDCZA\\KNKFAh@FpAAf@Dr@TDDHAb@Hp@Dh@N?CSGPgBDOJ?o@K{@?{@KME{@Eg@IODI?s@GSEc@QWEOGQKAMWK_@_@o@cAu@e@GW?OOGa@E]Am@IWGq@_@g@e@_EkFa@Y}BcCiBmAiCqAUQV{@D{@J}@AaA@OCi@BKGYAQLm@?w@DOEeAMo@@AECG?w@f@y@p@AFm@b@MFC?GHWT}BfBGBQCQK_@}AAa@OiACMA[QcBEgAOeAAs@F[?g@OyAY_AQa@c@q@[_@y@oAIa@BCUQo@_AiAoA{@w@]i@Sk@m@kDYgD[iAWQ{@y@QI_@GYM?AKAQMSCc@R[AUy@Ik@Ma@EWEKe@oCQi@][qBw@g@[iAmAMGcAoAsBsBYMa@GM@WH[ZO`@e@j@Sv@q@rA?j@Nz@Dd@DhAEl@AJCDQtAOp@IJ[t@g@t@[Zu@b@O@SEUMYUQUUGe@g@K?IBCD?JBFFDFLDDJ^f@VHJFBRPf@rADRAAJSBTBBDA?HNMEMAHC@AEFDCCCB@HSF@l@Hj@Cr@F|@?d@ENKBGCM[QUIEg@Ro@L[TMXAd@HZPRHVBLLNRh@p@z@ALKNq@H]?CBGCa@?MDIAU@UICC{Ac@s@_@m@S{@e@o@Uw@e@gAg@a@K{@a@m@a@OSWQeBu@UWS]Ke@E{@Oc@Gi@Ag@GG[NG?CBCCIBe@Ve@^_Bz@IV@ROt@Wz@Cj@Bd@CFGDMBKAs@]_A_@]E]DSJYBQF[`@sAf@w@Ro@Hy@BcBPm@?q@SsA_B[MMASKKM]i@e@aAa@o@gBaBqAuCo@}@[_@o@i@i@o@{A{Ao@y@u@uAi@uAk@_C]iDWeHa@eFI{Bs@oKEsAImAAk@MgD?o@CqAAuB?qAFgAf@_FTwAHw@PuADEl@EZQVg@F[v@aC[cBJQ@YH[BSHOASCKFUDICc@z@qC`@eAz@qBfFaKdAmCf@gA~BgEdBkDjAoBtAiDJMh@c@lC_BbBw@~@[KiABYPGLMDQGm@A_Ae@c@EM@SJIDGBW?WBu@K}DIcCDu@@o@S_CKgCDYJOTEBEC[CAI?o@JU?@[DUP_@b@W|Ae@RKNSXs@Lm@t@mBHKl@]PULQ@MBeAH_@hAwCF[iAaEKc@AYBg@Ne@NOz@c@?OQu@@YFSLOLGpB_@NGXOTWN[@a@_@kBAWDSFMNOtAkA~@gAjA{Bx@uALOv@k@JMNGJO~@sBDCDBDFL~@LVTL\\VFL@F?GEIB@ZpACB@FVv@Tf@nAtBNDBAvAaAFMAUc@eACY?a@o@sAGSASo@uAiAmC",
+    "resource_state": 3,
+    "summary_polyline": "c~lkF`f_w@EbFoMrB_BjGzCjMhRPDzDuInV{IaBsCfExCmE`IzA`LyZ|K]~DfEb@`j@b[jEhLsH{Iv@yBuFpDmG_AwVnDqN_MxDgEaFoGrBmCua@qHyCuWvfAoKSeEhJlF|Ta@t^`NtWaPmAoSgfA|IiZr[mPj@uRpTaa@jJzXbJaAWpGzN{MpDJh@hH`FoA|BpKw@dYsEtJT`MiEbEjDjBLj[uBzAsNoNuEtRfFlOnLmOvNiC{Cu`@jMad@nFk@|OrQ|HwAqKx{@sF|Cu@cSaMyV{Dl_@jFtD|AxLhUjOZvDkFjBlYn\\qCzIhV|WrKbEOxOlGlB{ObAuKlLSxFnOrMbb@`B~JtSlIgBuA}BnD_HoC{LuFwDyh@bE{RgMtHaN~P{AgMuAs_@{Z`@wQkKdGiBwTuKmPwBiMqGoBqBeJgMiKyFjF_BvOmGc@hElFUpG_EXzBpFaBj@uXyK}AuGaFfC{@|F_VdAoYw_@aFwt@zAwYl`@gaAfJeFsAke@rJuL`B}WlEgBIuE`NyQ`G~LrBkA}EwN"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "flagged": false,
+  "gear_id": "g695626",
+  "average_speed": 1.93,
+  "max_speed": 3.6,
+  "has_heartrate": false,
+  "elev_high": 216.6,
+  "elev_low": 33.4,
+  "total_photo_count": 17,
+  "has_kudoed": false,
+  "workout_type": 0,
+  "description": "Bonked hard then chilled with a nice local lady",
+  "calories": 4274.1,
+  "segment_efforts": [
+    {
+      "id": 14981814010,
+      "resource_state": 2,
+      "name": "Rampa Palácio-Cruzamento Serafina",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 236,
+      "moving_time": 236,
+      "start_date": "2016-06-18T17:06:41Z",
+      "start_date_local": "2016-06-18T18:06:41Z",
+      "distance": 510.9,
+      "start_index": 80,
+      "end_index": 163,
+      "segment": {
+        "id": 9088047,
+        "resource_state": 2,
+        "name": "Rampa Palácio-Cruzamento Serafina",
+        "activity_type": "Run",
+        "distance": 557.6,
+        "average_grade": 10.4,
+        "maximum_grade": 14.8,
+        "elevation_high": 146.7,
+        "elevation_low": 88.7,
+        "start_latlng": [
+          38.740488,
+          -9.180305
+        ],
+        "end_latlng": [
+          38.736228,
+          -9.18182
+        ],
+        "start_latitude": 38.740488,
+        "start_longitude": -9.180305,
+        "end_latitude": 38.736228,
+        "end_longitude": -9.18182,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814068,
+      "resource_state": 2,
+      "name": "Av. Ten. Martins 5 Climb",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 389,
+      "moving_time": 389,
+      "start_date": "2016-06-18T17:19:48Z",
+      "start_date_local": "2016-06-18T18:19:48Z",
+      "distance": 901.6,
+      "start_index": 313,
+      "end_index": 458,
+      "segment": {
+        "id": 1309495,
+        "resource_state": 2,
+        "name": "Av. Ten. Martins 5 Climb",
+        "activity_type": "Run",
+        "distance": 947.368,
+        "average_grade": 7.2,
+        "maximum_grade": 14,
+        "elevation_high": 213.4,
+        "elevation_low": 145.4,
+        "start_latlng": [
+          38.736441666666664,
+          -9.181921666666666
+        ],
+        "end_latlng": [
+          38.733255,
+          -9.18872
+        ],
+        "start_latitude": 38.736441666666664,
+        "start_longitude": -9.181921666666666,
+        "end_latitude": 38.733255,
+        "end_longitude": -9.18872,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814230,
+      "resource_state": 2,
+      "name": "Estrada da Bela Vista - descida",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 465,
+      "moving_time": 456,
+      "start_date": "2016-06-18T17:34:33Z",
+      "start_date_local": "2016-06-18T18:34:33Z",
+      "distance": 1284.7,
+      "start_index": 601,
+      "end_index": 770,
+      "segment": {
+        "id": 5743442,
+        "resource_state": 2,
+        "name": "Estrada da Bela Vista - descida",
+        "activity_type": "Run",
+        "distance": 1376.3,
+        "average_grade": -3.5,
+        "maximum_grade": 16.7,
+        "elevation_high": 195.5,
+        "elevation_low": 138.7,
+        "start_latlng": [
+          38.727957,
+          -9.186643
+        ],
+        "end_latlng": [
+          38.732231,
+          -9.180348
+        ],
+        "start_latitude": 38.727957,
+        "start_longitude": -9.186643,
+        "end_latitude": 38.732231,
+        "end_longitude": -9.180348,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814147,
+      "resource_state": 2,
+      "name": "Descida do Restaurante Panoramico -  Bela Vista",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 77,
+      "moving_time": 77,
+      "start_date": "2016-06-18T17:35:11Z",
+      "start_date_local": "2016-06-18T18:35:11Z",
+      "distance": 224.5,
+      "start_index": 612,
+      "end_index": 638,
+      "segment": {
+        "id": 5793500,
+        "resource_state": 2,
+        "name": "Descida do Restaurante Panoramico -  Bela Vista",
+        "activity_type": "Run",
+        "distance": 226.3,
+        "average_grade": -3.1,
+        "maximum_grade": 0,
+        "elevation_high": 196,
+        "elevation_low": 184.8,
+        "start_latlng": [
+          38.728463,
+          -9.185444
+        ],
+        "end_latlng": [
+          38.728324,
+          -9.183313
+        ],
+        "start_latitude": 38.728463,
+        "start_longitude": -9.185444,
+        "end_latitude": 38.728324,
+        "end_longitude": -9.183313,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814282,
+      "resource_state": 2,
+      "name": "Estrada Serafina",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 341,
+      "moving_time": 341,
+      "start_date": "2016-06-18T17:43:55Z",
+      "start_date_local": "2016-06-18T18:43:55Z",
+      "distance": 895.7,
+      "start_index": 797,
+      "end_index": 880,
+      "segment": {
+        "id": 6147586,
+        "resource_state": 2,
+        "name": "Estrada Serafina",
+        "activity_type": "Run",
+        "distance": 879.3,
+        "average_grade": 0.6,
+        "maximum_grade": 6.8,
+        "elevation_high": 134.9,
+        "elevation_low": 125.6,
+        "start_latlng": [
+          38.732852,
+          -9.177347
+        ],
+        "end_latlng": [
+          38.73592,
+          -9.179824
+        ],
+        "start_latitude": 38.732852,
+        "start_longitude": -9.177347,
+        "end_latitude": 38.73592,
+        "end_longitude": -9.179824,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814375,
+      "resource_state": 2,
+      "name": "Pista da Água W-E",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 1074,
+      "moving_time": 1074,
+      "start_date": "2016-06-18T18:05:04Z",
+      "start_date_local": "2016-06-18T19:05:04Z",
+      "distance": 2991.8,
+      "start_index": 1135,
+      "end_index": 1498,
+      "segment": {
+        "id": 2518933,
+        "resource_state": 2,
+        "name": "Pista da Água W-E",
+        "activity_type": "Run",
+        "distance": 2963.66,
+        "average_grade": -0.2,
+        "maximum_grade": 19.8,
+        "elevation_high": 144.1,
+        "elevation_low": 112.4,
+        "start_latlng": [
+          38.7378,
+          -9.200362
+        ],
+        "end_latlng": [
+          38.735875,
+          -9.17578
+        ],
+        "start_latitude": 38.7378,
+        "start_longitude": -9.200362,
+        "end_latitude": 38.735875,
+        "end_longitude": -9.17578,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814330,
+      "resource_state": 2,
+      "name": "Estradão completo a descer",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 300,
+      "moving_time": 300,
+      "start_date": "2016-06-18T18:05:04Z",
+      "start_date_local": "2016-06-18T19:05:04Z",
+      "distance": 876.6,
+      "start_index": 1135,
+      "end_index": 1225,
+      "segment": {
+        "id": 10912940,
+        "resource_state": 2,
+        "name": "Estradão completo a descer",
+        "activity_type": "Run",
+        "distance": 879.3,
+        "average_grade": -1.9,
+        "maximum_grade": 5.9,
+        "elevation_high": 138.6,
+        "elevation_low": 120,
+        "start_latlng": [
+          38.737707,
+          -9.200418
+        ],
+        "end_latlng": [
+          38.742164,
+          -9.194182
+        ],
+        "start_latitude": 38.737707,
+        "start_longitude": -9.200418,
+        "end_latitude": 38.742164,
+        "end_longitude": -9.194182,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814409,
+      "resource_state": 2,
+      "name": "single - pista de água - curto",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 136,
+      "moving_time": 136,
+      "start_date": "2016-06-18T18:23:03Z",
+      "start_date_local": "2016-06-18T19:23:03Z",
+      "distance": 372.7,
+      "start_index": 1500,
+      "end_index": 1537,
+      "segment": {
+        "id": 5962510,
+        "resource_state": 2,
+        "name": "single - pista de água - curto",
+        "activity_type": "Run",
+        "distance": 351.4,
+        "average_grade": -1,
+        "maximum_grade": 10.5,
+        "elevation_high": 120.2,
+        "elevation_low": 113.4,
+        "start_latlng": [
+          38.735884,
+          -9.175562
+        ],
+        "end_latlng": [
+          38.734058,
+          -9.172961
+        ],
+        "start_latitude": 38.735884,
+        "start_longitude": -9.175562,
+        "end_latitude": 38.734058,
+        "end_longitude": -9.172961,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814447,
+      "resource_state": 2,
+      "name": "Trilho da Serafina ",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 141,
+      "moving_time": 141,
+      "start_date": "2016-06-18T18:25:10Z",
+      "start_date_local": "2016-06-18T19:25:10Z",
+      "distance": 362.2,
+      "start_index": 1534,
+      "end_index": 1578,
+      "segment": {
+        "id": 6099205,
+        "resource_state": 2,
+        "name": "Trilho da Serafina ",
+        "activity_type": "Run",
+        "distance": 398.6,
+        "average_grade": 3.1,
+        "maximum_grade": 12.6,
+        "elevation_high": 124.6,
+        "elevation_low": 110.1,
+        "start_latlng": [
+          38.733793,
+          -9.172728
+        ],
+        "end_latlng": [
+          38.731897,
+          -9.176294
+        ],
+        "start_latitude": 38.733793,
+        "start_longitude": -9.172728,
+        "end_latitude": 38.731897,
+        "end_longitude": -9.176294,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814486,
+      "resource_state": 2,
+      "name": "Serafina Up#",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 145,
+      "moving_time": 145,
+      "start_date": "2016-06-18T18:33:01Z",
+      "start_date_local": "2016-06-18T19:33:01Z",
+      "distance": 329.8,
+      "start_index": 1699,
+      "end_index": 1761,
+      "segment": {
+        "id": 4451624,
+        "resource_state": 2,
+        "name": "Serafina Up#",
+        "activity_type": "Run",
+        "distance": 346.9,
+        "average_grade": 6.9,
+        "maximum_grade": 18.9,
+        "elevation_high": 111.6,
+        "elevation_low": 87.6,
+        "start_latlng": [
+          38.727694,
+          -9.175388
+        ],
+        "end_latlng": [
+          38.726229,
+          -9.176737
+        ],
+        "start_latitude": 38.727694,
+        "start_longitude": -9.175388,
+        "end_latitude": 38.726229,
+        "end_longitude": -9.176737,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814528,
+      "resource_state": 2,
+      "name": "Av. Ten. Martins 5 Climb",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 488,
+      "moving_time": 488,
+      "start_date": "2016-06-18T18:36:15Z",
+      "start_date_local": "2016-06-18T19:36:15Z",
+      "distance": 1078.3,
+      "start_index": 1777,
+      "end_index": 1973,
+      "segment": {
+        "id": 1309469,
+        "resource_state": 2,
+        "name": "Av. Ten. Martins 5 Climb",
+        "activity_type": "Run",
+        "distance": 1183.37,
+        "average_grade": 8.2,
+        "maximum_grade": 27.1,
+        "elevation_high": 181.1,
+        "elevation_low": 84.6,
+        "start_latlng": [
+          38.7251,
+          -9.177163333333333
+        ],
+        "end_latlng": [
+          38.72705833333333,
+          -9.18816
+        ],
+        "start_latitude": 38.7251,
+        "start_longitude": -9.177163333333333,
+        "end_latitude": 38.72705833333333,
+        "end_longitude": -9.18816,
+        "climb_category": 1,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814703,
+      "resource_state": 2,
+      "name": "Pista A5 (incompleta) - Up",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 630,
+      "moving_time": 630,
+      "start_date": "2016-06-18T18:37:59Z",
+      "start_date_local": "2016-06-18T19:37:59Z",
+      "distance": 1396.9,
+      "start_index": 1810,
+      "end_index": 2065,
+      "segment": {
+        "id": 8330012,
+        "resource_state": 2,
+        "name": "Pista A5 (incompleta) - Up",
+        "activity_type": "Run",
+        "distance": 1406.8,
+        "average_grade": 4.4,
+        "maximum_grade": 32.5,
+        "elevation_high": 191.4,
+        "elevation_low": 116,
+        "start_latlng": [
+          38.725061,
+          -9.180073
+        ],
+        "end_latlng": [
+          38.726629,
+          -9.193655
+        ],
+        "start_latitude": 38.725061,
+        "start_longitude": -9.180073,
+        "end_latitude": 38.726629,
+        "end_longitude": -9.193655,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981814983,
+      "resource_state": 2,
+      "name": "Avenida Tenente Martins Climb",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 451,
+      "moving_time": 451,
+      "start_date": "2016-06-18T18:45:57Z",
+      "start_date_local": "2016-06-18T19:45:57Z",
+      "distance": 1054.3,
+      "start_index": 1999,
+      "end_index": 2172,
+      "segment": {
+        "id": 4640735,
+        "resource_state": 2,
+        "name": "Avenida Tenente Martins Climb",
+        "activity_type": "Run",
+        "distance": 1093.8,
+        "average_grade": 3.7,
+        "maximum_grade": 13.2,
+        "elevation_high": 205.4,
+        "elevation_low": 165,
+        "start_latlng": [
+          38.726255,
+          -9.189682
+        ],
+        "end_latlng": [
+          38.730293,
+          -9.193761
+        ],
+        "start_latitude": 38.726255,
+        "start_longitude": -9.189682,
+        "end_latitude": 38.730293,
+        "end_longitude": -9.193761,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815025,
+      "resource_state": 2,
+      "name": "Sobre A5",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 62,
+      "moving_time": 62,
+      "start_date": "2016-06-18T18:58:46Z",
+      "start_date_local": "2016-06-18T19:58:46Z",
+      "distance": 159.7,
+      "start_index": 2284,
+      "end_index": 2297,
+      "segment": {
+        "id": 4253278,
+        "resource_state": 2,
+        "name": "Sobre A5",
+        "activity_type": "Run",
+        "distance": 159.5,
+        "average_grade": 0.8,
+        "maximum_grade": 4.6,
+        "elevation_high": 162.6,
+        "elevation_low": 161.4,
+        "start_latlng": [
+          38.725809,
+          -9.194068
+        ],
+        "end_latlng": [
+          38.724474,
+          -9.193418
+        ],
+        "start_latitude": 38.725809,
+        "start_longitude": -9.194068,
+        "end_latitude": 38.724474,
+        "end_longitude": -9.193418,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815078,
+      "resource_state": 2,
+      "name": "Muro da Tapada N",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 283,
+      "moving_time": 283,
+      "start_date": "2016-06-18T19:12:10Z",
+      "start_date_local": "2016-06-18T20:12:10Z",
+      "distance": 686.2,
+      "start_index": 2543,
+      "end_index": 2625,
+      "segment": {
+        "id": 9832833,
+        "resource_state": 2,
+        "name": "Muro da Tapada N",
+        "activity_type": "Run",
+        "distance": 701.1,
+        "average_grade": 4.1,
+        "maximum_grade": 89.1,
+        "elevation_high": 216.1,
+        "elevation_low": 172.1,
+        "start_latlng": [
+          38.717595,
+          -9.18474
+        ],
+        "end_latlng": [
+          38.718972,
+          -9.192128
+        ],
+        "start_latitude": 38.717595,
+        "start_longitude": -9.18474,
+        "end_latitude": 38.718972,
+        "end_longitude": -9.192128,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815161,
+      "resource_state": 2,
+      "name": "Sprint Red Carpet - down",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 69,
+      "moving_time": 69,
+      "start_date": "2016-06-18T19:22:41Z",
+      "start_date_local": "2016-06-18T20:22:41Z",
+      "distance": 176.8,
+      "start_index": 2741,
+      "end_index": 2765,
+      "segment": {
+        "id": 11034757,
+        "resource_state": 2,
+        "name": "Sprint Red Carpet - down",
+        "activity_type": "Run",
+        "distance": 185.8,
+        "average_grade": 2.5,
+        "maximum_grade": 3.9,
+        "elevation_high": 174.8,
+        "elevation_low": 170.1,
+        "start_latlng": [
+          38.721085,
+          -9.191319
+        ],
+        "end_latlng": [
+          38.722046,
+          -9.189589
+        ],
+        "start_latitude": 38.721085,
+        "start_longitude": -9.191319,
+        "end_latitude": 38.722046,
+        "end_longitude": -9.189589,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815211,
+      "resource_state": 2,
+      "name": "Sprint da Rotunda",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 199,
+      "moving_time": 191,
+      "start_date": "2016-06-18T19:31:09Z",
+      "start_date_local": "2016-06-18T20:31:09Z",
+      "distance": 375.9,
+      "start_index": 2892,
+      "end_index": 2957,
+      "segment": {
+        "id": 7448832,
+        "resource_state": 2,
+        "name": "Sprint da Rotunda",
+        "activity_type": "Run",
+        "distance": 387,
+        "average_grade": -1.3,
+        "maximum_grade": 5.7,
+        "elevation_high": 181.2,
+        "elevation_low": 173,
+        "start_latlng": [
+          38.724182,
+          -9.193365
+        ],
+        "end_latlng": [
+          38.722403,
+          -9.196453
+        ],
+        "start_latitude": 38.724182,
+        "start_longitude": -9.193365,
+        "end_latitude": 38.722403,
+        "end_longitude": -9.196453,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815264,
+      "resource_state": 2,
+      "name": "Campo Basquetebol UP",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 45,
+      "moving_time": 45,
+      "start_date": "2016-06-18T19:35:09Z",
+      "start_date_local": "2016-06-18T20:35:09Z",
+      "distance": 91.9,
+      "start_index": 2964,
+      "end_index": 2974,
+      "segment": {
+        "id": 7600111,
+        "resource_state": 2,
+        "name": "Campo Basquetebol UP",
+        "activity_type": "Run",
+        "distance": 93.2,
+        "average_grade": 1.8,
+        "maximum_grade": 6.8,
+        "elevation_high": 181.5,
+        "elevation_low": 179.1,
+        "start_latlng": [
+          38.721565,
+          -9.196465
+        ],
+        "end_latlng": [
+          38.720782,
+          -9.196607
+        ],
+        "start_latitude": 38.721565,
+        "start_longitude": -9.196465,
+        "end_latitude": 38.720782,
+        "end_longitude": -9.196607,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815893,
+      "resource_state": 2,
+      "name": "Volta do fundo de algés",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 2956,
+      "moving_time": 2702,
+      "start_date": "2016-06-18T19:59:44Z",
+      "start_date_local": "2016-06-18T20:59:44Z",
+      "distance": 4522,
+      "start_index": 3355,
+      "end_index": 4326,
+      "segment": {
+        "id": 7488270,
+        "resource_state": 2,
+        "name": "Volta do fundo de algés",
+        "activity_type": "Run",
+        "distance": 4441.3,
+        "average_grade": 0,
+        "maximum_grade": 13.7,
+        "elevation_high": 89.4,
+        "elevation_low": 36,
+        "start_latlng": [
+          38.711445,
+          -9.215269
+        ],
+        "end_latlng": [
+          38.711511,
+          -9.21519
+        ],
+        "start_latitude": 38.711445,
+        "start_longitude": -9.215269,
+        "end_latitude": 38.711511,
+        "end_longitude": -9.21519,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815379,
+      "resource_state": 2,
+      "name": "Sfc Rampa 5#",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 126,
+      "moving_time": 105,
+      "start_date": "2016-06-18T20:11:07Z",
+      "start_date_local": "2016-06-18T21:11:07Z",
+      "distance": 123.3,
+      "start_index": 3573,
+      "end_index": 3610,
+      "segment": {
+        "id": 4224838,
+        "resource_state": 2,
+        "name": "Sfc Rampa 5#",
+        "activity_type": "Run",
+        "distance": 118.5,
+        "average_grade": 14,
+        "maximum_grade": 32.8,
+        "elevation_high": 46.6,
+        "elevation_low": 27.4,
+        "start_latlng": [
+          38.710181,
+          -9.22158
+        ],
+        "end_latlng": [
+          38.709146,
+          -9.221408
+        ],
+        "start_latitude": 38.710181,
+        "start_longitude": -9.22158,
+        "end_latitude": 38.709146,
+        "end_longitude": -9.221408,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815764,
+      "resource_state": 2,
+      "name": "CRIL - SFCH #",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 1258,
+      "moving_time": 1230,
+      "start_date": "2016-06-18T20:15:31Z",
+      "start_date_local": "2016-06-18T21:15:31Z",
+      "distance": 2052.1,
+      "start_index": 3655,
+      "end_index": 4099,
+      "segment": {
+        "id": 4557610,
+        "resource_state": 2,
+        "name": "CRIL - SFCH #",
+        "activity_type": "Run",
+        "distance": 2051.7,
+        "average_grade": 2.1,
+        "maximum_grade": 14.4,
+        "elevation_high": 85.3,
+        "elevation_low": 35.2,
+        "start_latlng": [
+          38.70705,
+          -9.222154
+        ],
+        "end_latlng": [
+          38.709709,
+          -9.219806
+        ],
+        "start_latitude": 38.70705,
+        "start_longitude": -9.222154,
+        "end_latitude": 38.709709,
+        "end_longitude": -9.219806,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815482,
+      "resource_state": 2,
+      "name": "Sfc Rampa 8#",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 91,
+      "moving_time": 86,
+      "start_date": "2016-06-18T20:22:25Z",
+      "start_date_local": "2016-06-18T21:22:25Z",
+      "distance": 110.8,
+      "start_index": 3790,
+      "end_index": 3823,
+      "segment": {
+        "id": 10819263,
+        "resource_state": 2,
+        "name": "Sfc Rampa 8#",
+        "activity_type": "Run",
+        "distance": 85.4,
+        "average_grade": 15.9,
+        "maximum_grade": 41.2,
+        "elevation_high": 0,
+        "elevation_low": -13.6,
+        "start_latlng": [
+          38.702598,
+          -9.224423
+        ],
+        "end_latlng": [
+          38.702941,
+          -9.223751
+        ],
+        "start_latitude": 38.702598,
+        "start_longitude": -9.224423,
+        "end_latitude": 38.702941,
+        "end_longitude": -9.223751,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815568,
+      "resource_state": 2,
+      "name": "UP do Forte Sfc #",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 537,
+      "moving_time": 527,
+      "start_date": "2016-06-18T20:22:25Z",
+      "start_date_local": "2016-06-18T21:22:25Z",
+      "distance": 819.5,
+      "start_index": 3790,
+      "end_index": 3984,
+      "segment": {
+        "id": 6173073,
+        "resource_state": 2,
+        "name": "UP do Forte Sfc #",
+        "activity_type": "Run",
+        "distance": 790.8,
+        "average_grade": 2.9,
+        "maximum_grade": 41.2,
+        "elevation_high": 9.2,
+        "elevation_low": -21.2,
+        "start_latlng": [
+          38.702598,
+          -9.224423
+        ],
+        "end_latlng": [
+          38.705435,
+          -9.218923
+        ],
+        "start_latitude": 38.702598,
+        "start_longitude": -9.224423,
+        "end_latitude": 38.705435,
+        "end_longitude": -9.218923,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815721,
+      "resource_state": 2,
+      "name": "Circular Regional Interior De Lisboa Climb",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 545,
+      "moving_time": 545,
+      "start_date": "2016-06-18T20:24:46Z",
+      "start_date_local": "2016-06-18T21:24:46Z",
+      "distance": 849.5,
+      "start_index": 3843,
+      "end_index": 4041,
+      "segment": {
+        "id": 2455054,
+        "resource_state": 2,
+        "name": "Circular Regional Interior De Lisboa Climb",
+        "activity_type": "Run",
+        "distance": 911.632,
+        "average_grade": 4.9,
+        "maximum_grade": 13.8,
+        "elevation_high": 81.1,
+        "elevation_low": 36.3,
+        "start_latlng": [
+          38.701915,
+          -9.22349
+        ],
+        "end_latlng": [
+          38.707341666666665,
+          -9.219003333333333
+        ],
+        "start_latitude": 38.701915,
+        "start_longitude": -9.22349,
+        "end_latitude": 38.707341666666665,
+        "end_longitude": -9.219003333333333,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815630,
+      "resource_state": 2,
+      "name": "sfc 7# completa",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 251,
+      "moving_time": 251,
+      "start_date": "2016-06-18T20:27:11Z",
+      "start_date_local": "2016-06-18T21:27:11Z",
+      "distance": 325,
+      "start_index": 3897,
+      "end_index": 3984,
+      "segment": {
+        "id": 10819221,
+        "resource_state": 2,
+        "name": "sfc 7# completa",
+        "activity_type": "Run",
+        "distance": 309.4,
+        "average_grade": 10.2,
+        "maximum_grade": 21.4,
+        "elevation_high": 79.4,
+        "elevation_low": 47.8,
+        "start_latlng": [
+          38.702854,
+          -9.220022
+        ],
+        "end_latlng": [
+          38.705415,
+          -9.218955
+        ],
+        "start_latitude": 38.702854,
+        "start_longitude": -9.220022,
+        "end_latitude": 38.705415,
+        "end_longitude": -9.218955,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815672,
+      "resource_state": 2,
+      "name": "sfc rampa 7#",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 58,
+      "moving_time": 58,
+      "start_date": "2016-06-18T20:30:24Z",
+      "start_date_local": "2016-06-18T21:30:24Z",
+      "distance": 93.3,
+      "start_index": 3964,
+      "end_index": 3984,
+      "segment": {
+        "id": 10819238,
+        "resource_state": 2,
+        "name": "sfc rampa 7#",
+        "activity_type": "Run",
+        "distance": 86,
+        "average_grade": 4.4,
+        "maximum_grade": 14.5,
+        "elevation_high": 79.4,
+        "elevation_low": 75.4,
+        "start_latlng": [
+          38.704664,
+          -9.219056
+        ],
+        "end_latlng": [
+          38.705415,
+          -9.218955
+        ],
+        "start_latitude": 38.704664,
+        "start_longitude": -9.219056,
+        "end_latitude": 38.705415,
+        "end_longitude": -9.218955,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815816,
+      "resource_state": 2,
+      "name": "Sfc Aqua",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 520,
+      "moving_time": 420,
+      "start_date": "2016-06-18T20:35:45Z",
+      "start_date_local": "2016-06-18T21:35:45Z",
+      "distance": 751,
+      "start_index": 4081,
+      "end_index": 4262,
+      "segment": {
+        "id": 8392982,
+        "resource_state": 2,
+        "name": "Sfc Aqua",
+        "activity_type": "Run",
+        "distance": 704.1,
+        "average_grade": -2.8,
+        "maximum_grade": 25,
+        "elevation_high": 113,
+        "elevation_low": 84.4,
+        "start_latlng": [
+          38.709041,
+          -9.219424
+        ],
+        "end_latlng": [
+          38.713608,
+          -9.217003
+        ],
+        "start_latitude": 38.709041,
+        "start_longitude": -9.219424,
+        "end_latitude": 38.713608,
+        "end_longitude": -9.217003,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815851,
+      "resource_state": 2,
+      "name": "Aquaparque 2 Sam Levy",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 200,
+      "moving_time": 200,
+      "start_date": "2016-06-18T20:43:33Z",
+      "start_date_local": "2016-06-18T21:43:33Z",
+      "distance": 283,
+      "start_index": 4240,
+      "end_index": 4306,
+      "segment": {
+        "id": 12081718,
+        "resource_state": 2,
+        "name": "Aquaparque 2 Sam Levy",
+        "activity_type": "Run",
+        "distance": 332.6,
+        "average_grade": 8.2,
+        "maximum_grade": 16.5,
+        "elevation_high": 104.2,
+        "elevation_low": 77,
+        "start_latlng": [
+          38.713983,
+          -9.217549
+        ],
+        "end_latlng": [
+          38.712414,
+          -9.21485
+        ],
+        "start_latitude": 38.713983,
+        "start_longitude": -9.217549,
+        "end_latitude": 38.712414,
+        "end_longitude": -9.21485,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815934,
+      "resource_state": 2,
+      "name": "Descobertas up #",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 187,
+      "moving_time": 187,
+      "start_date": "2016-06-18T21:01:57Z",
+      "start_date_local": "2016-06-18T22:01:57Z",
+      "distance": 241.4,
+      "start_index": 4502,
+      "end_index": 4571,
+      "segment": {
+        "id": 4181040,
+        "resource_state": 2,
+        "name": "Descobertas up #",
+        "activity_type": "Run",
+        "distance": 236.3,
+        "average_grade": 10.9,
+        "maximum_grade": 25,
+        "elevation_high": 56.4,
+        "elevation_low": 30.6,
+        "start_latlng": [
+          38.716887,
+          -9.209755
+        ],
+        "end_latlng": [
+          38.716823,
+          -9.20714
+        ],
+        "start_latitude": 38.716887,
+        "start_longitude": -9.209755,
+        "end_latitude": 38.716823,
+        "end_longitude": -9.20714,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981815978,
+      "resource_state": 2,
+      "name": "Estr. Do Outeiro Climb",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 640,
+      "moving_time": 614,
+      "start_date": "2016-06-18T21:07:39Z",
+      "start_date_local": "2016-06-18T22:07:39Z",
+      "distance": 923.4,
+      "start_index": 4626,
+      "end_index": 4805,
+      "segment": {
+        "id": 1732640,
+        "resource_state": 2,
+        "name": "Estr. Do Outeiro Climb",
+        "activity_type": "Run",
+        "distance": 907.62,
+        "average_grade": 5,
+        "maximum_grade": 14.1,
+        "elevation_high": 151.2,
+        "elevation_low": 105.6,
+        "start_latlng": [
+          38.7188266,
+          -9.2082654
+        ],
+        "end_latlng": [
+          38.7222843,
+          -9.1994588
+        ],
+        "start_latitude": 38.7188266,
+        "start_longitude": -9.2082654,
+        "end_latitude": 38.7222843,
+        "end_longitude": -9.1994588,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816027,
+      "resource_state": 2,
+      "name": "Subida aos Carros",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 237,
+      "moving_time": 237,
+      "start_date": "2016-06-18T21:19:37Z",
+      "start_date_local": "2016-06-18T22:19:37Z",
+      "distance": 316.2,
+      "start_index": 4826,
+      "end_index": 4902,
+      "segment": {
+        "id": 3532712,
+        "resource_state": 2,
+        "name": "Subida aos Carros",
+        "activity_type": "Run",
+        "distance": 313.959,
+        "average_grade": 6.4,
+        "maximum_grade": 11,
+        "elevation_high": 171.6,
+        "elevation_low": 151.6,
+        "start_latlng": [
+          38.723387410864234,
+          -9.198956927284598
+        ],
+        "end_latlng": [
+          38.72522346675396,
+          -9.196486696600914
+        ],
+        "start_latitude": 38.723387410864234,
+        "start_longitude": -9.198956927284598,
+        "end_latitude": 38.72522346675396,
+        "end_longitude": -9.196486696600914,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816080,
+      "resource_state": 2,
+      "name": "Up and Down….#\"$",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 301,
+      "moving_time": 298,
+      "start_date": "2016-06-18T21:39:05Z",
+      "start_date_local": "2016-06-18T22:39:05Z",
+      "distance": 427.1,
+      "start_index": 5169,
+      "end_index": 5294,
+      "segment": {
+        "id": 3961484,
+        "resource_state": 2,
+        "name": "Up and Down….#\"$",
+        "activity_type": "Run",
+        "distance": 427.7,
+        "average_grade": 0.4,
+        "maximum_grade": 26,
+        "elevation_high": 169.2,
+        "elevation_low": 151,
+        "start_latlng": [
+          38.728321,
+          -9.201674
+        ],
+        "end_latlng": [
+          38.729908,
+          -9.203143
+        ],
+        "start_latitude": 38.728321,
+        "start_longitude": -9.201674,
+        "end_latitude": 38.729908,
+        "end_longitude": -9.203143,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon District",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 15649731318,
+      "resource_state": 2,
+      "name": "Descida das Raizes",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 132,
+      "moving_time": 114,
+      "start_date": "2016-06-18T21:50:24Z",
+      "start_date_local": "2016-06-18T22:50:24Z",
+      "distance": 151.4,
+      "start_index": 5414,
+      "end_index": 5461,
+      "segment": {
+        "id": 12616391,
+        "resource_state": 2,
+        "name": "Descida das Raizes",
+        "activity_type": "Run",
+        "distance": 152.7,
+        "average_grade": -11.7,
+        "maximum_grade": -6.8,
+        "elevation_high": 161.1,
+        "elevation_low": 143.2,
+        "start_latlng": [
+          38.73375,
+          -9.199873
+        ],
+        "end_latlng": [
+          38.734998,
+          -9.200568
+        ],
+        "start_latitude": 38.73375,
+        "start_longitude": -9.199873,
+        "end_latitude": 38.734998,
+        "end_longitude": -9.200568,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816330,
+      "resource_state": 2,
+      "name": "Pina Manique- Radial Benfica",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 2112,
+      "moving_time": 2112,
+      "start_date": "2016-06-18T22:00:24Z",
+      "start_date_local": "2016-06-18T23:00:24Z",
+      "distance": 2984,
+      "start_index": 5570,
+      "end_index": 5936,
+      "segment": {
+        "id": 5910030,
+        "resource_state": 2,
+        "name": "Pina Manique- Radial Benfica",
+        "activity_type": "Run",
+        "distance": 2970.8,
+        "average_grade": -1.5,
+        "maximum_grade": 16.1,
+        "elevation_high": 122.6,
+        "elevation_low": 71.9,
+        "start_latlng": [
+          38.739925,
+          -9.201001
+        ],
+        "end_latlng": [
+          38.736938,
+          -9.172468
+        ],
+        "start_latitude": 38.739925,
+        "start_longitude": -9.201001,
+        "end_latitude": 38.736938,
+        "end_longitude": -9.172468,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816122,
+      "resource_state": 2,
+      "name": "radial Buraca - 1º segmento",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 945,
+      "moving_time": 945,
+      "start_date": "2016-06-18T22:02:39Z",
+      "start_date_local": "2016-06-18T23:02:39Z",
+      "distance": 1385.1,
+      "start_index": 5593,
+      "end_index": 5771,
+      "segment": {
+        "id": 7859111,
+        "resource_state": 2,
+        "name": "radial Buraca - 1º segmento",
+        "activity_type": "Run",
+        "distance": 1382.3,
+        "average_grade": -2.1,
+        "maximum_grade": 8.4,
+        "elevation_high": 122.1,
+        "elevation_low": 92.3,
+        "start_latlng": [
+          38.74121,
+          -9.199337
+        ],
+        "end_latlng": [
+          38.743921,
+          -9.184749
+        ],
+        "start_latitude": 38.74121,
+        "start_longitude": -9.199337,
+        "end_latitude": 38.743921,
+        "end_longitude": -9.184749,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816258,
+      "resource_state": 2,
+      "name": "milha da radial",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 1126,
+      "moving_time": 1126,
+      "start_date": "2016-06-18T22:13:13Z",
+      "start_date_local": "2016-06-18T23:13:13Z",
+      "distance": 1536.7,
+      "start_index": 5711,
+      "end_index": 5906,
+      "segment": {
+        "id": 6548507,
+        "resource_state": 2,
+        "name": "milha da radial",
+        "activity_type": "Run",
+        "distance": 1552.8,
+        "average_grade": -1.3,
+        "maximum_grade": 17.5,
+        "elevation_high": 114.7,
+        "elevation_low": 71.8,
+        "start_latlng": [
+          38.743987,
+          -9.189779
+        ],
+        "end_latlng": [
+          38.739033,
+          -9.174607
+        ],
+        "start_latitude": 38.743987,
+        "start_longitude": -9.189779,
+        "end_latitude": 38.739033,
+        "end_longitude": -9.174607,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816371,
+      "resource_state": 2,
+      "name": "Ciclovia Pupilos a rotunda",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 785,
+      "moving_time": 785,
+      "start_date": "2016-06-18T22:22:50Z",
+      "start_date_local": "2016-06-18T23:22:50Z",
+      "distance": 1059.8,
+      "start_index": 5827,
+      "end_index": 5939,
+      "segment": {
+        "id": 11287994,
+        "resource_state": 2,
+        "name": "Ciclovia Pupilos a rotunda",
+        "activity_type": "Run",
+        "distance": 1083.7,
+        "average_grade": 0,
+        "maximum_grade": 2.2,
+        "elevation_high": 97.4,
+        "elevation_low": 91,
+        "start_latlng": [
+          38.742984,
+          -9.181211
+        ],
+        "end_latlng": [
+          38.736708,
+          -9.172318
+        ],
+        "start_latitude": 38.742984,
+        "start_longitude": -9.181211,
+        "end_latitude": 38.736708,
+        "end_longitude": -9.172318,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816168,
+      "resource_state": 2,
+      "name": "Sprint dos Pupilos",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 355,
+      "moving_time": 355,
+      "start_date": "2016-06-18T22:22:50Z",
+      "start_date_local": "2016-06-18T23:22:50Z",
+      "distance": 487.5,
+      "start_index": 5827,
+      "end_index": 5878,
+      "segment": {
+        "id": 7824316,
+        "resource_state": 2,
+        "name": "Sprint dos Pupilos",
+        "activity_type": "Run",
+        "distance": 490,
+        "average_grade": 0.3,
+        "maximum_grade": 7.1,
+        "elevation_high": 77.1,
+        "elevation_low": 72,
+        "start_latlng": [
+          38.742814,
+          -9.181324
+        ],
+        "end_latlng": [
+          38.740289,
+          -9.176741
+        ],
+        "start_latitude": 38.742814,
+        "start_longitude": -9.181324,
+        "end_latitude": 38.740289,
+        "end_longitude": -9.176741,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816434,
+      "resource_state": 2,
+      "name": "final ciclovia",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 663,
+      "moving_time": 663,
+      "start_date": "2016-06-18T22:27:32Z",
+      "start_date_local": "2016-06-18T23:27:32Z",
+      "distance": 916.3,
+      "start_index": 5870,
+      "end_index": 5975,
+      "segment": {
+        "id": 7859135,
+        "resource_state": 2,
+        "name": "final ciclovia",
+        "activity_type": "Run",
+        "distance": 898.4,
+        "average_grade": -1.2,
+        "maximum_grade": 9.9,
+        "elevation_high": 94.6,
+        "elevation_low": 62.2,
+        "start_latlng": [
+          38.740914,
+          -9.177675
+        ],
+        "end_latlng": [
+          38.736627,
+          -9.169983
+        ],
+        "start_latitude": 38.740914,
+        "start_longitude": -9.177675,
+        "end_latitude": 38.736627,
+        "end_longitude": -9.169983,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816763,
+      "resource_state": 2,
+      "name": "Subida Rua de Campolide - Juízos Cíveis",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 698,
+      "moving_time": 693,
+      "start_date": "2016-06-18T22:43:09Z",
+      "start_date_local": "2016-06-18T23:43:09Z",
+      "distance": 908.8,
+      "start_index": 6024,
+      "end_index": 6171,
+      "segment": {
+        "id": 6353197,
+        "resource_state": 2,
+        "name": "Subida Rua de Campolide - Juízos Cíveis",
+        "activity_type": "Run",
+        "distance": 902.7,
+        "average_grade": 5,
+        "maximum_grade": 13.4,
+        "elevation_high": 111.9,
+        "elevation_low": 67.2,
+        "start_latlng": [
+          38.737065,
+          -9.166326
+        ],
+        "end_latlng": [
+          38.733741,
+          -9.158769
+        ],
+        "start_latitude": 38.737065,
+        "start_longitude": -9.166326,
+        "end_latitude": 38.733741,
+        "end_longitude": -9.158769,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816493,
+      "resource_state": 2,
+      "name": "Subida do Jardim da Amnistia",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 243,
+      "moving_time": 238,
+      "start_date": "2016-06-18T22:43:22Z",
+      "start_date_local": "2016-06-18T23:43:22Z",
+      "distance": 327.4,
+      "start_index": 6027,
+      "end_index": 6080,
+      "segment": {
+        "id": 9013545,
+        "resource_state": 2,
+        "name": "Subida do Jardim da Amnistia",
+        "activity_type": "Run",
+        "distance": 323.2,
+        "average_grade": 3,
+        "maximum_grade": 6.2,
+        "elevation_high": 77.8,
+        "elevation_low": 68.1,
+        "start_latlng": [
+          38.737066,
+          -9.16608
+        ],
+        "end_latlng": [
+          38.735139,
+          -9.163612
+        ],
+        "start_latitude": 38.737066,
+        "start_longitude": -9.16608,
+        "end_latitude": 38.735139,
+        "end_longitude": -9.163612,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Distrito de Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816893,
+      "resource_state": 2,
+      "name": "Ciclovia Parque VII- Monsanto ",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 762,
+      "moving_time": 757,
+      "start_date": "2016-06-18T22:46:24Z",
+      "start_date_local": "2016-06-18T23:46:24Z",
+      "distance": 992.9,
+      "start_index": 6067,
+      "end_index": 6207,
+      "segment": {
+        "id": 6610395,
+        "resource_state": 2,
+        "name": "Ciclovia Parque VII- Monsanto ",
+        "activity_type": "Run",
+        "distance": 1008.4,
+        "average_grade": 3.6,
+        "maximum_grade": 11.9,
+        "elevation_high": 113.5,
+        "elevation_low": 76.1,
+        "start_latlng": [
+          38.735499,
+          -9.164243
+        ],
+        "end_latlng": [
+          38.731704,
+          -9.155908
+        ],
+        "start_latitude": 38.735499,
+        "start_longitude": -9.164243,
+        "end_latitude": 38.731704,
+        "end_longitude": -9.155908,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981816694,
+      "resource_state": 2,
+      "name": "ponte - subida",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 69,
+      "moving_time": 69,
+      "start_date": "2016-06-18T22:47:43Z",
+      "start_date_local": "2016-06-18T23:47:43Z",
+      "distance": 92.8,
+      "start_index": 6084,
+      "end_index": 6095,
+      "segment": {
+        "id": 6063735,
+        "resource_state": 2,
+        "name": "ponte - subida",
+        "activity_type": "Run",
+        "distance": 67,
+        "average_grade": 4.6,
+        "maximum_grade": 9.5,
+        "elevation_high": 81.8,
+        "elevation_low": 78.7,
+        "start_latlng": [
+          38.735091,
+          -9.163245
+        ],
+        "end_latlng": [
+          38.734756,
+          -9.162604
+        ],
+        "start_latitude": 38.735091,
+        "start_longitude": -9.163245,
+        "end_latitude": 38.734756,
+        "end_longitude": -9.162604,
+        "climb_category": 0,
+        "city": "Lisbon",
+        "state": "Lisbon",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 14981817020,
+      "resource_state": 2,
+      "name": "400 m Juizos Civeis N-S",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 373,
+      "moving_time": 373,
+      "start_date": "2016-06-18T22:54:18Z",
+      "start_date_local": "2016-06-18T23:54:18Z",
+      "distance": 506.7,
+      "start_index": 6166,
+      "end_index": 6225,
+      "segment": {
+        "id": 10397325,
+        "resource_state": 2,
+        "name": "400 m Juizos Civeis N-S",
+        "activity_type": "Run",
+        "distance": 414.9,
+        "average_grade": 0.2,
+        "maximum_grade": 3.4,
+        "elevation_high": 113.6,
+        "elevation_low": 110.5,
+        "start_latlng": [
+          38.733575,
+          -9.159138
+        ],
+        "end_latlng": [
+          38.731336,
+          -9.156164
+        ],
+        "start_latitude": 38.733575,
+        "start_longitude": -9.159138,
+        "end_latitude": 38.731336,
+        "end_longitude": -9.156164,
+        "climb_category": 0,
+        "city": "Lisboa",
+        "state": "Lisboa",
+        "country": "Portugal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.6,
+      "elapsed_time": 406,
+      "elevation_difference": 14.2,
+      "moving_time": 406,
+      "split": 1
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 381,
+      "elevation_difference": 34,
+      "moving_time": 381,
+      "split": 2
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 370,
+      "elevation_difference": 11.4,
+      "moving_time": 370,
+      "split": 3
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 393,
+      "elevation_difference": 43,
+      "moving_time": 393,
+      "split": 4
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 358,
+      "elevation_difference": -5.8,
+      "moving_time": 358,
+      "split": 5
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 346,
+      "elevation_difference": -51.8,
+      "moving_time": 346,
+      "split": 6
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 386,
+      "elevation_difference": -25.2,
+      "moving_time": 386,
+      "split": 7
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 481,
+      "elevation_difference": 25,
+      "moving_time": 481,
+      "split": 8
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 359,
+      "elevation_difference": 14.8,
+      "moving_time": 359,
+      "split": 9
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 334,
+      "elevation_difference": -40,
+      "moving_time": 334,
+      "split": 10
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 347,
+      "elevation_difference": -11.8,
+      "moving_time": 347,
+      "split": 11
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 371,
+      "elevation_difference": -9.2,
+      "moving_time": 371,
+      "split": 12
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 362,
+      "elevation_difference": 5.2,
+      "moving_time": 362,
+      "split": 13
+    },
+    {
+      "distance": 1005.4,
+      "elapsed_time": 404,
+      "elevation_difference": -2.6,
+      "moving_time": 404,
+      "split": 14
+    },
+    {
+      "distance": 991.1,
+      "elapsed_time": 389,
+      "elevation_difference": -0.6,
+      "moving_time": 389,
+      "split": 15
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 463,
+      "elevation_difference": 74.2,
+      "moving_time": 463,
+      "split": 16
+    },
+    {
+      "distance": 1010.3,
+      "elapsed_time": 431,
+      "elevation_difference": 23.4,
+      "moving_time": 431,
+      "split": 17
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 385,
+      "elevation_difference": -32,
+      "moving_time": 385,
+      "split": 18
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 372,
+      "elevation_difference": -61.4,
+      "moving_time": 372,
+      "split": 19
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 418,
+      "elevation_difference": 14.2,
+      "moving_time": 418,
+      "split": 20
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 455,
+      "elevation_difference": 39.2,
+      "moving_time": 455,
+      "split": 21
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 488,
+      "elevation_difference": 10.8,
+      "moving_time": 488,
+      "split": 22
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 528,
+      "elevation_difference": 2,
+      "moving_time": 528,
+      "split": 23
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 474,
+      "elevation_difference": -25.2,
+      "moving_time": 474,
+      "split": 24
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 484,
+      "elevation_difference": -47.6,
+      "moving_time": 484,
+      "split": 25
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 514,
+      "elevation_difference": -22.8,
+      "moving_time": 514,
+      "split": 26
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 657,
+      "elevation_difference": -25,
+      "moving_time": 657,
+      "split": 27
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 615,
+      "elevation_difference": -2.6,
+      "moving_time": 615,
+      "split": 28
+    },
+    {
+      "distance": 993.3,
+      "elapsed_time": 651,
+      "elevation_difference": 31,
+      "moving_time": 651,
+      "split": 29
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 643,
+      "elevation_difference": -24.2,
+      "moving_time": 643,
+      "split": 30
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 724,
+      "elevation_difference": 32,
+      "moving_time": 724,
+      "split": 31
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 602,
+      "elevation_difference": 21.4,
+      "moving_time": 602,
+      "split": 32
+    },
+    {
+      "distance": 1010.6,
+      "elapsed_time": 691,
+      "elevation_difference": 24,
+      "moving_time": 691,
+      "split": 33
+    },
+    {
+      "distance": 991.1,
+      "elapsed_time": 646,
+      "elevation_difference": 23.8,
+      "moving_time": 646,
+      "split": 34
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 866,
+      "elevation_difference": -27,
+      "moving_time": 866,
+      "split": 35
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 717,
+      "elevation_difference": -22.6,
+      "moving_time": 715,
+      "split": 36
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 656,
+      "elevation_difference": -21,
+      "moving_time": 656,
+      "split": 37
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 676,
+      "elevation_difference": -21.2,
+      "moving_time": 676,
+      "split": 38
+    },
+    {
+      "distance": 1004,
+      "elapsed_time": 736,
+      "elevation_difference": -10.8,
+      "moving_time": 736,
+      "split": 39
+    },
+    {
+      "distance": 993.5,
+      "elapsed_time": 713,
+      "elevation_difference": -1.4,
+      "moving_time": 713,
+      "split": 40
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 751,
+      "elevation_difference": 36.6,
+      "moving_time": 751,
+      "split": 41
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 735,
+      "elevation_difference": 3.2,
+      "moving_time": 735,
+      "split": 42
+    },
+    {
+      "distance": 120.6,
+      "elapsed_time": 47,
+      "elevation_difference": -0.2,
+      "moving_time": 47,
+      "split": 43
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.4,
+      "elapsed_time": 653,
+      "elevation_difference": 46.6,
+      "moving_time": 653,
+      "split": 1
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 601,
+      "elevation_difference": 33.4,
+      "moving_time": 601,
+      "split": 2
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 587,
+      "elevation_difference": 8.6,
+      "moving_time": 587,
+      "split": 3
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 587,
+      "elevation_difference": -59.2,
+      "moving_time": 587,
+      "split": 4
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 708,
+      "elevation_difference": 15.4,
+      "moving_time": 708,
+      "split": 5
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 562,
+      "elevation_difference": -19,
+      "moving_time": 562,
+      "split": 6
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 562,
+      "elevation_difference": -27.4,
+      "moving_time": 562,
+      "split": 7
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 589,
+      "elevation_difference": 2.8,
+      "moving_time": 589,
+      "split": 8
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 631,
+      "elevation_difference": -10.2,
+      "moving_time": 631,
+      "split": 9
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 708,
+      "elevation_difference": 83.4,
+      "moving_time": 708,
+      "split": 10
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 666,
+      "elevation_difference": 8.2,
+      "moving_time": 666,
+      "split": 11
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 597,
+      "elevation_difference": -96.8,
+      "moving_time": 597,
+      "split": 12
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 698,
+      "elevation_difference": 62.8,
+      "moving_time": 698,
+      "split": 13
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 853,
+      "elevation_difference": 22.4,
+      "moving_time": 853,
+      "split": 14
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 766,
+      "elevation_difference": -31,
+      "moving_time": 766,
+      "split": 15
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 802,
+      "elevation_difference": -57.2,
+      "moving_time": 802,
+      "split": 16
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 1012,
+      "elevation_difference": -45,
+      "moving_time": 1012,
+      "split": 17
+    },
+    {
+      "distance": 1608,
+      "elapsed_time": 1019,
+      "elevation_difference": 40.2,
+      "moving_time": 1019,
+      "split": 18
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 1126,
+      "elevation_difference": 0.8,
+      "moving_time": 1126,
+      "split": 19
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 958,
+      "elevation_difference": 14.4,
+      "moving_time": 958,
+      "split": 20
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 1108,
+      "elevation_difference": 61,
+      "moving_time": 1108,
+      "split": 21
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 1272,
+      "elevation_difference": -32.2,
+      "moving_time": 1272,
+      "split": 22
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 1108,
+      "elevation_difference": -37.4,
+      "moving_time": 1106,
+      "split": 23
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 1124,
+      "elevation_difference": -31.8,
+      "moving_time": 1124,
+      "split": 24
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 1158,
+      "elevation_difference": 3.6,
+      "moving_time": 1158,
+      "split": 25
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 1241,
+      "elevation_difference": 39.2,
+      "moving_time": 1241,
+      "split": 26
+    },
+    {
+      "distance": 282,
+      "elapsed_time": 129,
+      "elevation_difference": -4.2,
+      "moving_time": 129,
+      "split": 27
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 1453688771,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 128,
+      "moving_time": 128,
+      "start_date": "2016-06-18T17:59:40Z",
+      "start_date_local": "2016-06-18T18:59:40Z",
+      "distance": 400,
+      "start_index": 1039,
+      "end_index": 1073,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688772,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 264,
+      "moving_time": 265,
+      "start_date": "2016-06-18T17:59:14Z",
+      "start_date_local": "2016-06-18T18:59:14Z",
+      "distance": 805,
+      "start_index": 1033,
+      "end_index": 1107,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688773,
+      "resource_state": 2,
+      "name": "1k",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 329,
+      "moving_time": 331,
+      "start_date": "2016-06-18T17:59:26Z",
+      "start_date_local": "2016-06-18T18:59:26Z",
+      "distance": 1000,
+      "start_index": 1036,
+      "end_index": 1133,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688774,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 536,
+      "moving_time": 537,
+      "start_date": "2016-06-18T17:59:21Z",
+      "start_date_local": "2016-06-18T18:59:21Z",
+      "distance": 1609,
+      "start_index": 1035,
+      "end_index": 1189,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688775,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 1117,
+      "moving_time": 1118,
+      "start_date": "2016-06-18T17:59:10Z",
+      "start_date_local": "2016-06-18T18:59:10Z",
+      "distance": 3219,
+      "start_index": 1032,
+      "end_index": 1389,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688776,
+      "resource_state": 2,
+      "name": "5k",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 1773,
+      "moving_time": 1774,
+      "start_date": "2016-06-18T17:54:32Z",
+      "start_date_local": "2016-06-18T18:54:32Z",
+      "distance": 5000,
+      "start_index": 957,
+      "end_index": 1518,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688777,
+      "resource_state": 2,
+      "name": "10k",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 3714,
+      "moving_time": 3608,
+      "start_date": "2016-06-18T17:24:48Z",
+      "start_date_local": "2016-06-18T18:24:48Z",
+      "distance": 10000,
+      "start_index": 429,
+      "end_index": 1563,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688778,
+      "resource_state": 2,
+      "name": "15k",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 5680,
+      "moving_time": 5573,
+      "start_date": "2016-06-18T17:03:50Z",
+      "start_date_local": "2016-06-18T18:03:50Z",
+      "distance": 15000,
+      "start_index": 25,
+      "end_index": 1820,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688779,
+      "resource_state": 2,
+      "name": "10 mile",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 6184,
+      "moving_time": 6078,
+      "start_date": "2016-06-18T17:11:50Z",
+      "start_date_local": "2016-06-18T18:11:50Z",
+      "distance": 16090,
+      "start_index": 194,
+      "end_index": 2202,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 1453688780,
+      "resource_state": 2,
+      "name": "20k",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 7756,
+      "moving_time": 7650,
+      "start_date": "2016-06-18T17:02:49Z",
+      "start_date_local": "2016-06-18T18:02:49Z",
+      "distance": 20000,
+      "start_index": 1,
+      "end_index": 2541,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": 1453688781,
+      "resource_state": 2,
+      "name": "Half-Marathon",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 8252,
+      "moving_time": 8146,
+      "start_date": "2016-06-18T17:03:23Z",
+      "start_date_local": "2016-06-18T18:03:23Z",
+      "distance": 21097,
+      "start_index": 13,
+      "end_index": 2695,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": 1453688782,
+      "resource_state": 2,
+      "name": "30k",
+      "activity": {
+        "id": 613964026,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 28684,
+        "resource_state": 1
+      },
+      "elapsed_time": 13264,
+      "moving_time": 12946,
+      "start_date": "2016-06-18T17:02:45Z",
+      "start_date_local": "2016-06-18T18:02:45Z",
+      "distance": 30000,
+      "start_index": 0,
+      "end_index": 4247,
+      "pr_rank": null,
+      "achievements": []
+    }
+  ],
+  "gear": {
+    "id": "g695626",
+    "primary": false,
+    "name": "ASICS kayano 20",
+    "resource_state": 2,
+    "distance": 1397252
+  },
+  "partner_logo_url": null,
+  "photos": {
+    "primary": {
+      "id": null,
+      "unique_id": "638DFA9F-E674-400F-85F9-0E07D42931C4",
+      "urls": {
+        "100": "https://dgtzuqphqg23d.cloudfront.net/DFOGrgwpF9xaOXcTtwC0lwWUmmylKyyK3H0pKPSG2vE-128x96.jpg",
+        "600": "https://dgtzuqphqg23d.cloudfront.net/DFOGrgwpF9xaOXcTtwC0lwWUmmylKyyK3H0pKPSG2vE-768x576.jpg"
+      },
+      "source": 1
+    },
+    "use_primary_photo": true,
+    "count": 17
+  },
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 1.9303821831179544,
+    "min_average_speed": 1.9303821831179544,
+    "mid_average_speed": 1.9303821831179544,
+    "max_average_speed": 1.9303821831179544,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        1.9303821831179544
+      ],
+      "current_activity_index": 0,
+      "min_speed": 1.9303821831179544,
+      "mid_speed": 1.9303821831179544,
+      "max_speed": 1.9303821831179544,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "device_name": "Garmin Forerunner 910XT",
+  "embed_token": "de2f483a39e6781f5c35acfbc4074105f592eef3"
+}
